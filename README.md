@@ -48,4 +48,17 @@ Soy curioso, autodidacta y disfruto creando proyectos que me ayuden a mejorar mi
 
 ---
 
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=IagoMar&show_icons=true&bg_color=161b22&border_color=22222288&text_color=bbb"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=IagoMar&show_icons=true&bg_color=00000000&border_color=22222288&text_color=222"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=picuu&show_icons=true&bg_color=00000000&border_color=22222288&text_color=bbb" alt="GitHub Stats Card" />
+</picture>
+
 ✨ *“El mejor aprendizaje es construir proyectos que resuelvan problemas reales.”*  
